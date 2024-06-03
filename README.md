@@ -1,10 +1,10 @@
-## ola! me chamo Danielly.
+## olá! me chamo Danielly.
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo:
 
-insta:@unodni
+instagram:@unodni
 
-![fique a vontade]()
+![★](https://tenor.com/bG83t.gif)
