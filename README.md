@@ -7,4 +7,4 @@
 
 instagram:@unodni
 
-![★](https://tenor.com/bG83t.gif)
+![](https://tenor.com/bG83t.gif)
